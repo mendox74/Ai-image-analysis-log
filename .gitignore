@@ -1,0 +1,4 @@
+*.vscode/
+*logfile
+*mocklogfile
+*.gz
